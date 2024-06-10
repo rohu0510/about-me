@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://techrohu.blogspot.com/](https://techrohu.blogspot.com/)
 
-- 💬 Ask me about **React, NextJs, NodeJs.**
+- 💬 Ask me about **C#, .NET, Javascript, React, NextJs, NodeJs.**
 
 - 📫 How to reach me **rhoprajapati@gmail.com**
 
